@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: BetterCharacterStats
+## Notes-ruRU: Отображает характеристики в окне информации о персонаже.
+## Author: moh
+## Version: 1.5
+## SavedVariablesPerCharacter: BCSConfig
+
+BetterCharacterStats.xml
